@@ -1,0 +1,16 @@
+{
+  "posts": [
+      {
+          "id": 1,
+          "title": "my third post",
+          "date": "1st May 2022",
+          "content": "Get unlimited broad cast in the airtel thanks app"
+      },
+      {
+          "id": 2,
+          "title": "my second post",
+          "date": "1st May 2022",
+          "content": "Leo"
+      }
+  ]
+}

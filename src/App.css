@@ -1,0 +1,116 @@
+ * 
+ {
+  cursor: pointer;
+ }
+ .socialmedia 
+{
+  height: 10vh;
+  width: 100%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine; 
+  font-weight: Bold;
+} 
+.search  
+{
+  background-color: black;
+  height: 20vh;
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  justify-content: center;
+
+
+} 
+.texer 
+{
+  padding: 10px;
+}  
+.about 
+{
+  display: flex; 
+  color: white;
+} 
+.about>* 
+{
+  margin:  10px; 
+  padding: 1vh;
+} 
+.about>*:hover 
+{
+  background-color: aquamarine; 
+  
+}
+.home 
+{
+  border-bottom: 1px solid black;
+} 
+.context 
+{
+  height: 80vh;
+} 
+.abt 
+{
+  text-decoration: none;
+  color: white;
+  
+} 
+.texify 
+{
+  height:  120px; 
+  width: 90%;
+} 
+.btn 
+{
+  padding: 10px; 
+  margin-top: 10px; 
+  background-color: black;
+  color: white;
+} 
+.linklink 
+{
+  color: black;
+  text-decoration: none;
+} 
+.DELS 
+{
+  padding: 20px;
+  background-color: red;
+  color: white; 
+  border: none;
+} 
+.rot 
+{
+  height: 20px;
+  width: 20px;
+  background-color: white; 
+  border-radius: 50%; 
+  padding: 10px; 
+  border-top: 5px solid rgb(7, 252, 7); 
+  border-left: 5px solid  rgb(7, 252, 7);  
+  animation: animate 2s linear infinite; 
+}  
+.length 
+{
+  display: flex; 
+  justify-content: space-around;
+}
+@keyframes animate {
+  0% 
+  {
+    transform: rotate(0deg);
+  } 
+  100% 
+  {
+    transform: rotate(360deg);
+  }
+} 
+.rotate 
+{
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
