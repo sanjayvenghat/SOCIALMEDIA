@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sanjayvenghat/soc.git/static/css/main.75e626b6.css",
+    "main.js": "/sanjayvenghat/soc.git/static/js/main.fc58245b.js",
+    "index.html": "/sanjayvenghat/soc.git/index.html",
+    "main.75e626b6.css.map": "/sanjayvenghat/soc.git/static/css/main.75e626b6.css.map",
+    "main.fc58245b.js.map": "/sanjayvenghat/soc.git/static/js/main.fc58245b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e626b6.css",
+    "static/js/main.fc58245b.js"
+  ]
+}
